@@ -33,10 +33,6 @@
     border-radius: 25px;
   }
   
-  .card_number {
-    margin-bottom: 25px;
-  }
-  
   input[type="text"] {
     padding: 10px;
     border-radius: 3px;
@@ -75,14 +71,13 @@
     color: #fff;
     padding: 10px;
     border-radius: 3px;
+    border-color: #064887;
     text-align: center;
     font-size: 18px;
     text-transform: uppercase;
     cursor: pointer;
     letter-spacing: 5px;
   }
-  
-  
   
     .card_grp {
       flex-direction: column;
@@ -95,14 +90,15 @@
   
     .expiry_date .expiry_input {
       width: 48%;
-      margin: 0;
     }
   
     .textvalidator {
+      padding-top: 5%;
+      padding-bottom: 7%;
       font-family: "Roboto", sans-serif;
       text-align: center;
       font-size: small;
-      font-weight: bold;
+      font-weight: 500;
     }
   
   
@@ -114,7 +110,7 @@
   
   input#card.input{
   
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
   
   footer {

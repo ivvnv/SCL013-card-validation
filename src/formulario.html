@@ -21,25 +21,24 @@
 <form id="formCreditCard">
     <div class="nombre-completo">   
         <div class="nombre-apellidos">
-          <input type="text"  id ="firstName" class="expiry_input" placeholder="Nombre" onkeypress="return (event.charCode > 64 && event.charCode < 91) || (event.charCode > 96 && event.charCode < 123)" required>
-          <input type="text" id="lastName" class="expiry_input" placeholder="Apellidos" onkeypress="return (event.charCode > 64 && event.charCode < 91) || (event.charCode > 96 && event.charCode < 123)" required>
+          <input type = "text" id = "firstName" class = "expiry_input " placeholder = "Nombre" onkeypress = "return (event.charCode > 64 && event.charCode < 91) || (event.charCode > 96 && event.charCode < 123)" required="required">
+          <input type = "text" id = "lastName" class = "expiry_input " placeholder = "Apellidos" onkeypress = "return (event.charCode > 64 && event.charCode < 91) || (event.charCode > 96 && event.charCode < 123)" required="required">
         </div>
    
       
     </div>
     <div class="card_number" id="card-container">
-        <input type="text" class="input" id="email" placeholder="E-mail" required>
-        <input type="text" class="input" id="card" placeholder="Número tarjeta de crédito" maxlength="16" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" required>
+        <input type = "text" class = "input" id = "email" placeholder = "E-mail" required="required"/>
+        <input type = "text" class = "input" id = "card" placeholder = "Número tarjeta de crédito" maxlength = "16" onkeypress = "return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" required="required">
    
-        <input type="button" value="Validar" id="submitBtn"><br/>
+        <input type = "button" value = "Validar" id = "submitBtn">
         
         <div id="resultDiv" class="textvalidator" ></div>
         
     </div>
    
-    <div id="pagar" class="btn"> 
-      pagar
-    </div>
+    <input type="submit" value="pagar" class="btn"> 
+      
     
 </form>     
 </div>
@@ -50,7 +49,7 @@
 
 
 <footer>
-  <p>Creado por Ivana Rivera y Viviana Valdivia - Primer desafío LABORATORIA. Generación 13, 2020 – Chile</p>
+  <p>Creado por Ivana Rivera y Viviana Valdivia - Primer desafío LABORATORIA. Generación 13, 2020 – SCL</p>
 </footer>
 
 </html>
