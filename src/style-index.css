@@ -15,11 +15,11 @@
     overflow-x: hidden;
 }
 
-    img {
+img {
     max-width:20%;
     height:auto;
     padding: 10px;
-    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 
@@ -41,12 +41,12 @@
 
 .text2 {
     position: absolute;
-    width: 190%;
-    left: 2050px;
+    width: 200%;
+    left: 900px;
     top: 90px;
     color: white;
     font-weight: 300;
-    font-size: 13pt;
+    font-size: 12pt;
    
 }
 
@@ -59,8 +59,8 @@ button {
     border-radius: 13px;
     display: block;
     float: right;
-    margin: 130px 0 0 10%;
-    margin-right: 115px;
+    margin: 120px 0 0 10%;
+    margin-right: 50px;
     text-align:  center;
     padding:  0px!important;
     padding-top: 100px;
@@ -68,12 +68,16 @@ button {
     font-size:  17px;
     font-weight: 300;
 }
+
 footer {
     color: white;
     margin: 0 auto;
     position: absolute;
-    width: 1000px;
-    height: 81px;
-    bottom: 0;
-    left: 900px;
+    width: 1300px;
+    height: 40px;
+    bottom: 1px;
+    font-size: small;
+    font-weight: 300;
+    text-align: center;
+    
 }
