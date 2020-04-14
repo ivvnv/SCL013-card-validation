@@ -12,5 +12,3 @@ document.getElementById("submitBtn").addEventListener("click", function(){
       }
     },
     false);
-
-console.log(validator);
