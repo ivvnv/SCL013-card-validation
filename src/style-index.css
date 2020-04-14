@@ -42,7 +42,7 @@
 .text2 {
     position: absolute;
     width: 190%;
-    left: 870px;
+    left: 2050px;
     top: 90px;
     color: white;
     font-weight: 300;
@@ -57,7 +57,7 @@ button {
     height:  38px;
     border:  1.2pt solid white;
     border-radius: 13px;
-    display: inline-block;
+    display: block;
     float: right;
     margin: 130px 0 0 10%;
     margin-right: 115px;
@@ -67,4 +67,13 @@ button {
     color:  #fff;
     font-size:  17px;
     font-weight: 300;
+}
+footer {
+    color: white;
+    margin: 0 auto;
+    position: absolute;
+    width: 1000px;
+    height: 81px;
+    bottom: 0;
+    left: 900px;
 }

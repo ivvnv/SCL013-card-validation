@@ -116,5 +116,12 @@
     margin-bottom: 10px;
   }
   
-  
-  
+  footer {
+    color: white;
+    margin: 0 auto;
+    position: absolute;
+    width: 1000px;
+    height: 81px;
+    bottom: 0;
+    left: 900px;
+}
