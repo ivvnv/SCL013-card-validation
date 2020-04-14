@@ -1,4 +1,4 @@
-# Tarjeta de crédito válida
+# Suscripción pagada en Decibel
 
 ## Índice
 
