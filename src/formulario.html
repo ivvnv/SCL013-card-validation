@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Decibel | Inicia tu plan</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+  <div class="header">
+    <a href="index.html">
+    <img src="img/logo_decibel-01.png" id="logo"></a>
+</div>
+
+
+
+<div class="formulario">
+<form id="formCreditCard">
+    <div class="nombre-completo">   
+        <div class="nombre-apellidos">
+          <input type="text"  id ="firstName" class="expiry_input" placeholder="Nombre" onkeypress="return (event.charCode > 64 && event.charCode < 91) || (event.charCode > 96 && event.charCode < 123)" required>
+          <input type="text" id="lastName" class="expiry_input" placeholder="Apellidos" onkeypress="return (event.charCode > 64 && event.charCode < 91) || (event.charCode > 96 && event.charCode < 123)" required>
+        </div>
+   
+      
+    </div>
+    <div class="card_number" id="card-container">
+        <input type="text" class="input" id="email" placeholder="e-mail" required>
+        <input type="text" class="input" id="card" placeholder="0000000000000000" maxlength="16" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" required>
+   
+        <input type="submit" value="Validar" id="submitBtn"><br/>
+        
+        <div id="resultDiv" class="textvalidator" ></div>
+        
+    </div>
+   
+    <div id="pagar" class="btn"> 
+      pagar
+    </div>
+    
+</form>     
+</div>
+
+
+<script src="index.js" type="module"></script>
+</body>
+</html>
