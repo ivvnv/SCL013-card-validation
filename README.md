@@ -8,10 +8,10 @@ Este proyecto consiste en la elaboración de una herramienta dentro de una plata
 
 ## Presentación 
 
-![screen1](https://github.com/ivvnv/SCL013-card-validation/blob/master/src/img/final_1.png)
-![screen2](https://github.com/ivvnv/SCL013-card-validation/blob/master/src/img/final_2.png)
-![screen3](https://github.com/ivvnv/SCL013-card-validation/blob/master/src/img/final_3.png)
-![screen4](https://github.com/ivvnv/SCL013-card-validation/blob/master/src/img/final_4.png)
+![screen1](https://rawgit.com/ivvnv/SCL013-card-validation/master/src/img/final_1.png)
+![screen2](https://rawgit.com/ivvnv/SCL013-card-validation/master/src/img/final_2.png)
+![screen3](https://rawgit.com/ivvnv/SCL013-card-validation/master/src/img/final_3.png)
+![screen4](https://rawgit.com/ivvnv/SCL013-card-validation/master/src/img/final_4.png)
 
 ## Investigación UX
 
