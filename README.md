@@ -8,10 +8,10 @@ Este proyecto consiste en la elaboración de una herramienta dentro de una plata
 
 ## Presentación 
 
-![screen1](https://rawgit.com/ivvnv/SCL013-card-validation/master/src/img/final_1.png)
-![screen2](https://rawgit.com/ivvnv/SCL013-card-validation/master/src/img/final_2.png)
-![screen3](https://rawgit.com/ivvnv/SCL013-card-validation/master/src/img/final_3.png)
-![screen4](https://rawgit.com/ivvnv/SCL013-card-validation/master/src/img/final_4.png)
+![screen1](https://raw.githubusercontent.com/ivvnv/SCL013-card-validation/master/src/img/final_1.png)
+![screen2](https://raw.githubusercontent.com/ivvnv/SCL013-card-validation/master/src/img/final_2.png)
+![screen3](https://raw.githubusercontent.com/ivvnv/SCL013-card-validation/master/src/img/final_3.png)
+![screen4](https://raw.githubusercontent.com/ivvnv/SCL013-card-validation/master/src/img/final_4.png)
 
 ## Investigación UX
 
@@ -27,9 +27,9 @@ Este proyecto consiste en la elaboración de una herramienta dentro de una plata
 
 ### Primer prototipo 
 
-![proto1](https://github.com/ivvnv/SCL013-card-validation/blob/master/src/img/prototipo1_1.png)
-![proto2](https://github.com/ivvnv/SCL013-card-validation/blob/master/src/img/prototipo1_2.png)
-![proto3](https://github.com/ivvnv/SCL013-card-validation/blob/master/src/img/prototipo1_3.png)
+![proto1](https://raw.githubusercontent.com/ivvnv/SCL013-card-validation/master/src/img/prototipo1_1.png)
+![proto2](https://raw.githubusercontent.com/ivvnv/SCL013-card-validation/master/src/img/prototipo1_2.png)
+![proto3](https://raw.githubusercontent.com/ivvnv/SCL013-card-validation/master/src/img/prototipo1_3.png)
 
 ### Feedback 
 
@@ -39,9 +39,9 @@ como tecnologías.
 
 ### Prototipo final
 
-![protofinal1](https://github.com/ivvnv/SCL013-card-validation/blob/master/src/img/prototipofinal_1.png)
-![protofinal2](https://github.com/ivvnv/SCL013-card-validation/blob/master/src/img/prototipofinal_2.png)
-![protofinal3](https://github.com/ivvnv/SCL013-card-validation/blob/master/src/img/prototipofinal_3.png)
-![protofinal4](https://github.com/ivvnv/SCL013-card-validation/blob/master/src/img/prototipofinal_4.png)
+![protofinal1](https://raw.githubusercontent.com/ivvnv/SCL013-card-validation/master/src/img/prototipofinal_1.png)
+![protofinal2](https://raw.githubusercontent.com/ivvnv/SCL013-card-validation/master/src/img/prototipofinal_2.png)
+![protofinal3](https://raw.githubusercontent.com/ivvnv/SCL013-card-validation/master/src/img/prototipofinal_3.png)
+![protofinal4](https://raw.githubusercontent.com/ivvnv/SCL013-card-validation/master/src/img/prototipofinal_4.png)
 
 
